@@ -3,15 +3,15 @@
 
 ### Equipo AeroPython 
 
-- Alex Saez
 - Mabel Delgado
-- Siro Moreno
 - Jesús Martos
+- Siro Moreno
+- Alex Saez
 
 ## Descripción
-Aprovechando la oportunidad que nos brinda el IX Congreso Spanish Space Students (S3), desde AeroPython presentamos una pequeña introducción a la programación científica en Python dentro del ámbito aeronáutico así como distintos proyectos en los que estamos embarcados algunos de los miembros del grupo.
+Aprovechando la oportunidad que nos brinda el IX Congreso Spanish Space Students (S3), desde AeroPython presentamos una pequeña introducción a la programación científica en Python dentro del ámbito aeronáutico así como distintos proyectos en los que estamos embarcados.
 
-## [Link a dipositivas en mybinder - Completar](Completar)
+## [Diapositivas](http://nbviewer.jupyter.org/format/slides/github/AeroPython/charla_s3_2017/blob/master/slides.ipynb#/)
 
 ![poster](./images/s3_poster.jpg)
 
