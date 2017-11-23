@@ -9,7 +9,7 @@
 - Jesús Martos
 
 ## Descripción
-Aprovechando la oportunidad que nos brinda el IX Congreso Spanish Space Students (S3), desde Aeropython presentamos una pequeña introducción a la programación científica en Python dentro del ámbito aeronáutico así como distintos proyectos en los que estamos embarcados algunos de los miembros del grupo.
+Aprovechando la oportunidad que nos brinda el IX Congreso Spanish Space Students (S3), desde AeroPython presentamos una pequeña introducción a la programación científica en Python dentro del ámbito aeronáutico así como distintos proyectos en los que estamos embarcados algunos de los miembros del grupo.
 
 ## [Link a dipositivas en mybinder - Completar](Completar)
 
